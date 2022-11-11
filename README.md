@@ -15,8 +15,8 @@
 
 
 # Frameworks
-
-
+### Tailwind
+### daisy UI
 
 
 
@@ -24,4 +24,4 @@
 
 
 <!-- ! Hasan -->
-# React Tailwind Install
+# React  Install
